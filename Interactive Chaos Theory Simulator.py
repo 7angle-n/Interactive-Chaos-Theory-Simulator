@@ -21,7 +21,7 @@ import time
 
 
 # ─────────────────────────────────────────────
-#  COLOR PALETTE  (dark cyberpunk / sci-fi)
+#  COLOR PALETTE  (dark)
 # ─────────────────────────────────────────────
 BG_DARK    = "#0a0a0f"
 BG_PANEL   = "#0f0f1a"
